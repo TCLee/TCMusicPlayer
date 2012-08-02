@@ -1,0 +1,24 @@
+#Custom Music Player
+
+<img src="Screenshot.jpg" alt="Music Player Screenshot" style="margin-top:1em;" />
+
+## Description
+This sample demonstrates how to build a custom music player that supports:  
+
+* Inspection of a media's metadata.
+* Playback of a media.
+* Seeking within a media using a scrubber control.
+* Asynchronous loading of media's tracks to keep the user interface responsive.
+
+The music player utilizes the **AV Foundation** classes introduced since iOS 4.
+
+## Notes
+* To keep the sample code as simple as possible, error checking has been kept to the minimal.
+* This sample can be modified to stream audio using **HTTP Live Streaming** technology.
+
+## Build Requirements
+* Xcode 4.4 or later - *This project uses Objective-C new literal syntax to create collection objects.*
+* iOS 5.1 SDK or later
+
+## Runtime Requirements
+* iOS 5.0 or later
