@@ -1,6 +1,6 @@
 #Custom Music Player
 
-<img src="Screenshot.jpg" alt="Music Player Screenshot" style="margin-top:1em;" />
+<img src="http://raw.github.com/TCLee/TCMusicPlayer/master/Screenshot.jpg" alt="Music Player Screenshot" style="margin-top:1em;" />
 
 ## Description
 This sample demonstrates how to build a custom music player that supports:  
